@@ -14,3 +14,9 @@ L’output del prezzo finale va messo fuori in forma umana (con massimo due deci
 Questo richiederà un minimo di ricerca.
 
 buon viaggio!
+
+1. chiedere all'utente tramite prompt i 2 dati: Km da percorrere e l'età del passeggero
+2. calcolare il prezzo in base ai km percorsi
+3. creare degli IF per le scontistiche
+4. generare il prezzo finale
+5. stampare in html il valore con 2 decimali
